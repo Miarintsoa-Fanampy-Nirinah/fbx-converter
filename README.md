@@ -1,2 +1,2 @@
 # PortfolioLicense
-Ce dépôt contient le portfolio complet de mon projet de licence en génie logiciel. Le thème principal de ce projet est la création et le développement d’un jeu vidéo en 3D sur Unity pour PC.
+This repository contains the complete portfolio of my software engineering thesis project. The main theme of this project is the creation and development of a 3D video game in Unity for PC.
